@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title> Real Estate Podcast with </title>
+    <title>OsteoStrong</title>
     <link>http://localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>OsteoStrong is a unique system focused on developing your skeletal strength and improving your bone health. It is the ultimate biohack.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2018-10-17 14:44:23 -0500</lastBuildDate>
-    <media:copyright></media:copyright>
+    <managingEditor>Tiffany Canady</managingEditor>
+    <lastBuildDate>2018-11-19 15:43:36 -0600</lastBuildDate>
+    <media:copyright>Tiffany Canady</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Osteo, Osteostrong, Bone strength, Bone density, Bone, Biodensity, Skeletal development, Osteoporosis, Biohack, Osteogenic Loading</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:email>Canady@OsteoStrong.me</itunes:email>
+      <itunes:name>Tiffany Canady</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Tiffany Canady</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Osteo, Osteostrong, Bone strength, Bone density, Bone, Biodensity, Skeletal development, Osteoporosis, Biohack, Osteogenic Loading</itunes:keywords>
+    <itunes:subtitle>The Ultimate for Bone Health | Osteogenic Loading</itunes:subtitle>
+    <itunes:summary>OsteoStrong is a unique system focused on developing your skeletal strength and improving your bone health. It is the ultimate biohack.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
         <title>this is a test post</title>
         <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
         
-          <category>Market Update</category>
+          <category>Bone Density</category>
         
-          <category>Real Estate</category>
+          <category>Skeletal Development</category>
         
-          <category>Home Seller Tips</category>
+          <category>Osteoporosis</category>
         
-        <author></author>
+        <author>Tiffany Canady</author>
         <pubDate>2018-05-10 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -56,22 +56,22 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Tiffany Canady</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Osteo, Osteostrong, Bone strength, Bone density, Bone, Biodensity, Skeletal development, Osteoporosis, Biohack, Osteogenic Loading</itunes:keywords>
       </item>
       
       <item>
         <title>A Fox in Space</title>
         <link>http://localhost:4000/a-fox-in-space.html</link>
         
-          <category>Market Update</category>
+          <category>Osteo</category>
         
-          <category>Real Estate</category>
+          <category>Osteostrong</category>
         
-          <category>Home Seller Tips</category>
+          <category>Bone Strength</category>
         
-        <author></author>
+        <author>Tiffany Canady</author>
         <pubDate>2018-05-07 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -109,14 +109,14 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Tiffany Canady</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Osteo, Osteostrong, Bone strength, Bone density, Bone, Biodensity, Skeletal development, Osteoporosis, Biohack, Osteogenic Loading</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+    <copyright>Tiffany Canady</copyright>
+    <media:credit role="author">Tiffany Canady</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">OsteoStrong is a unique system focused on developing your skeletal strength and improving your bone health. It is the ultimate biohack.</media:description>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --</title>
-    <description>Our mission at  is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The , your professional  Real Estate Agents.</description>
+    <title>OsteoStrong – The Ultimate for Bone Health | Osteogenic Loading</title>
+    <description>OsteoStrong is a unique system focused on developing your skeletal strength and improving your bone health. It is the ultimate biohack.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Oct 2018 14:44:23 -0500</pubDate>
-    <lastBuildDate>Wed, 17 Oct 2018 14:44:23 -0500</lastBuildDate>
+    <pubDate>Mon, 19 Nov 2018 15:43:36 -0600</pubDate>
+    <lastBuildDate>Mon, 19 Nov 2018 15:43:36 -0600</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -29,11 +29,11 @@
         <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
         <guid isPermaLink="true">http://localhost:4000/this-is-a-test-post-copy-2.html</guid>
         
-        <category>Market Update</category>
+        <category>Bone Density</category>
         
-        <category>Real Estate</category>
+        <category>Skeletal Development</category>
         
-        <category>Home Seller Tips</category>
+        <category>Osteoporosis</category>
         
         
       </item>
@@ -74,11 +74,11 @@
         <link>http://localhost:4000/a-fox-in-space.html</link>
         <guid isPermaLink="true">http://localhost:4000/a-fox-in-space.html</guid>
         
-        <category>Market Update</category>
+        <category>Osteo</category>
         
-        <category>Real Estate</category>
+        <category>Osteostrong</category>
         
-        <category>Home Seller Tips</category>
+        <category>Bone Strength</category>
         
         
       </item>

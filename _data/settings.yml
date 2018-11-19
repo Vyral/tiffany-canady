@@ -1,51 +1,53 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: OsteoStrong – The Ultimate for Bone Health | Osteogenic Loading
+description: OsteoStrong is a unique system focused on developing your skeletal strength and improving your bone health. It is the ultimate biohack.
 show_custom_links: false
 custom_links:
   - title:
     url:
-show_custom_links_new_tab: false
+show_custom_links_new_tab: true
 custom_links_new_tab:
-  - title:
-    url:
+  - title: Free Session
+    url: https://www.osteostrong.me/free-session/
 
 client:
-  name:
+  name: Tiffany Canady
   title:
   license_number:
   about_markdown: |
+    My goal is to educate, support and empower everyone I work with! I am driven to provide the community with an alternative solution to heal themselves without depending on pain medications and injections. I am committed to helping people realize their own potential and achieve vibrant health!
 
-  brand:
+    Our team takes an integrative approach to wellness, with natural ways to relieve stress, build bone, improve strength, balance, posture,and pure power as well as relieve back and joint pain. Our system promotes skeletal strength and conditioning and has shown to reverse Osteoporosis and prevent Low Bone Density. We customize programs to the individual to support optimal health and well-being.
+  brand: OsteoStrong
   brokerage:
   market:
-  address:
-  phone:
+  address: 5992 Stetson Hills Blvd.<br>Colorado Springs, CO 80923
+  phone: 877-893-0008
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Canady@OsteoStrong.me
+  url: http://osteostrongcoloradosprings.com
 
-CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+# CTAs:
+#   first_CTA_text: Home Valuation
+#   first_CTA_URL: /homevalue/
+#   second_CTA_text: Home Search
+#   second_CTA_URL: /homesearch/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_title: "NO PAIN | ALL GAIN"
+    CTA_text: "60 Seconds to Pure Power. The Ultimate Biohack"
+    CTA_link_text: "Get a Free Session"
+    CTA_url: https://www.osteostrong.me/free-session/
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/002.jpg
+#     CTA_title2: "Looking for a -- MARKET -- Home?"
+#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /homesearch/
 
 lender:
   show_section: false
@@ -62,11 +64,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/osteostrong
   linkedin_url:
-  youtube_url:
-  twitter_url:
-  instagram_url:
+  youtube_url: https://www.youtube.com/user/osteostrong
+  twitter_url: https://twitter.com/OsteoStrong
+  instagram_url: https://www.instagram.com/osteostrong.me
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -74,25 +76,26 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'OsteoStrong'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: 'The Ultimate for Bone Health | Osteogenic Loading'
+  description: 'OsteoStrong is a unique system focused on developing your skeletal strength and improving your bone health. It is the ultimate biohack.'
+  keywords: 'Osteo, Osteostrong, Bone strength, Bone density, Bone, Biodensity, Skeletal development, Osteoporosis, Biohack, Osteogenic Loading'
   author: '-- CLIENT NAME --'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  logo_width_number: 30
+  hero_text: OsteoStrong | The Ultimate for Bone Health
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#555555'
+  accent_color: '#fec749'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
