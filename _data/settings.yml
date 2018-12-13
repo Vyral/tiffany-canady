@@ -1,5 +1,5 @@
 audit_header: false
-title: OsteoStrong – The Ultimate for Bone Health | Osteogenic Loading
+title: OsteoStrong – The Ultimate Biohack | Osteogenic Loading
 description: OsteoStrong is a unique system focused on developing your skeletal strength and improving your bone health. It is the ultimate biohack.
 show_custom_links: false
 custom_links:
@@ -79,7 +79,7 @@ podcast:
   title: 'OsteoStrong'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'The Ultimate for Bone Health | Osteogenic Loading'
+  subtitle: 'The Ultimate Biohack | Osteogenic Loading'
   description: 'OsteoStrong is a unique system focused on developing your skeletal strength and improving your bone health. It is the ultimate biohack.'
   keywords: 'Osteo, Osteostrong, Bone strength, Bone density, Bone, Biodensity, Skeletal development, Osteoporosis, Biohack, Osteogenic Loading'
   author: '-- CLIENT NAME --'
@@ -88,7 +88,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 30
-  hero_text: OsteoStrong | The Ultimate for Bone Health
+  hero_text: OsteoStrong | The Ultimate Biohack
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
